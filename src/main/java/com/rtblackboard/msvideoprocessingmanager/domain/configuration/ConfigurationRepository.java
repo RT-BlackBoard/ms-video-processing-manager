@@ -1,4 +1,4 @@
-package com.rtblackboard.msvideoprocessingmanager.configuration;
+package com.rtblackboard.msvideoprocessingmanager.domain.configuration;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,8 +1,9 @@
 package com.rtblackboard.msvideoprocessingmanager.controller;
 
-import com.rtblackboard.msvideoprocessingmanager.configuration.*;
+import com.rtblackboard.msvideoprocessingmanager.domain.configuration.*;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;

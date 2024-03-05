@@ -1,4 +1,4 @@
-package com.rtblackboard.msvideoprocessingmanager.configuration;
+package com.rtblackboard.msvideoprocessingmanager.domain.configuration;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
